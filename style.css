@@ -1,0 +1,109 @@
+/* Fichier CSS à personnaliser */
+
+html {
+	background: linear-gradient(to right, BurlyWood, mistyrose);
+	font-family:'Open Sans', sans-serif;
+	scroll-behavior: smooth;
+  }
+
+h1 {
+    text-align: center;
+    font-weight: 800;
+
+  }
+
+h4 {
+    font-weight: 800;
+  }
+
+#logo {
+  width: 120px;
+  height: 120px;
+}
+#part {
+  width: 170px;
+  height: 120px;
+}
+#sit {
+  width: 170px;
+  height: 120px;
+}
+.gras {
+   font-weight: 800;
+   }
+
+ul {
+   font-style: italic;
+   }
+
+#imadeb{
+  text-align: center;
+  border: 5px solid #393e46;
+  width: 96%; 	
+  background-color: #393e46;
+  padding:20px;
+}
+  
+
+
+.souligne {
+    text-decoration: underline black;
+  }
+
+h3 {
+   text-align:center;
+   font-weight: 800;
+   }
+#video {
+    text-align: center;
+   }
+#bloc1 {
+    border: 5px solid green;
+    width: 40%;
+    background-color: green;
+    color: white;
+    padding:20px;
+  }
+
+#photo {
+	text-align: center;
+   }
+#wasab {
+  width: 400px;
+  height: 300px;
+}
+#flech {
+	text-align: center;
+}
+
+#pho1 {
+  float: left
+}
+
+#pho2 {
+  float: left
+}
+
+section {
+  padding-left: 550px;
+  padding-right: 400px;
+}
+
+
+
+#somm {
+	text-align: start;
+	font-weight: 800;
+   }
+#bulle{
+  width:120px; 
+  height:120px;
+}
+
+#feur1 {
+  widght:170px;
+  height:170px;
+}
+
+
+
